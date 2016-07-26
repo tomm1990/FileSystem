@@ -19,6 +19,7 @@ class CFileSystem
 	CFileSystem& operator=(CFileSystem const& copy);
 
 	void fnViewContentOfFileInConsole( const CString& nclarCSFilePath ) ;
+
 public:
 	static CFileSystem& fnGetInstance() ;
 
