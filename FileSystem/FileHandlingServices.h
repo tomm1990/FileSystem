@@ -1,7 +1,6 @@
 #if !defined(AFX_FileHandlingServices_H__22277677_AF00_470C_A191_3DCCE6C77D95__INCLUDED_)
 #define AFX_FileHandlingServices_H__22277677_AF00_470C_A191_3DCCE6C77D95__INCLUDED_
 
-
 #if _MSC_VER > 1000
 #pragma once
 #endif // _MSC_VER > 1000
